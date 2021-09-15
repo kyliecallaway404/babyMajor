@@ -1,0 +1,39 @@
+body {
+  background-color: #F5EEF8; // light purple
+  padding: 20px 10px;
+}
+
+h1 p ol ul {
+  font-style: oblique #641187;
+  font-family: monospace;
+
+}
+
+h1 {
+  padding: 50px
+}
+
+.border {
+  border: 1px solid #5D6063;
+}
+
+.cute {
+  font-style: italic;
+
+#menu1 {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li a {
+  display: block;
+}
+
+ol {
+  list-style-type: circle;
+}
+
+ul {
+  list-style-type: lower-roman;
+}
